@@ -1,6 +1,6 @@
 # mDNS Mirror over HTTP
 
-This project is a service discovery and registration tool using Zeroconf (mDNS) and Flask. It discovers local services and mirrors them across multiple nodes over HTTP. Useful if you have a site to site VPN and don't want to allow multicast traffic on your VPN
+This project is a Zeroconf (mDNS) service discovery and registration tool using and Flask. It discovers local mDNS services and mirrors them across multiple nodes over HTTP. Useful if you have a site to site VPN and don't want to allow multicast traffic on your VPN
 
 ## Features
 
