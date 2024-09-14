@@ -12,7 +12,7 @@ This project is a Zeroconf (mDNS) service discovery and registration tool using 
 
 ## Requirements
 
-- Python 3.x
+- Python >=3.10
 - `pip` for package management
 
 ## Installation
