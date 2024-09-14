@@ -22,8 +22,14 @@ This project is a Zeroconf (mDNS) service discovery and registration tool using 
     git clone git@github.com:cuza/mDNS-Mirror.git
     cd mDNS-Mirror
     ```
+    
+2. Create and activate the virtual enviroment:
+    ```sh
+    python3 -m venv .venv
+    source .venv/bin/activate
+    ```
 
-2. Install the required packages:
+3. Install the required packages:
     ```sh
     pip install -r requirements.txt
     ```
